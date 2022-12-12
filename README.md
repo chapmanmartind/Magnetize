@@ -8,8 +8,7 @@ again affected by gravity, and the player can once again drop pieces.
 
 To start the game, enter `./play -h 4 -w 4 -s 2 -l 2 -b`. The value after `h` represents the height, `-w` the width, `-s` the size of the square needed to win,
 and `-l` the maglock length. `-b` means the board will be represented as bits behind the scenes, the more memory efficient option. 
-The other option is `-m`, a matrix representation of the board. Neither option
-affects the player's experience. 
+The other option is `-m`, a matrix representation of the board. Neither option affects the player's experience. All of these parameters may be changed to reasonable values and may be placed in any order. 
 
 To start the board will look like this 
 
