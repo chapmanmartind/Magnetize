@@ -92,4 +92,4 @@ And then white enters `3` again. Black's pieces are still magnetized and he has 
 3 *.oo
 ```
 
-White has won because he created a 2x2 square of white pieces! The game is over.
+White has won because he created a 2x2 square of white pieces! The game is over. Notice that black's pieces have fallen back down because his maglock period is over. 
